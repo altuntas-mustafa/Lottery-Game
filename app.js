@@ -51,7 +51,7 @@ button.addEventListener("click", ()=> {
             ball[d].style.visibility = "hidden" ;
         }
     }
-    
+    adet.value="";
 } 
 })
     
