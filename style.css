@@ -5,7 +5,7 @@
 
 body{
     background-color: rgba(44, 77, 51, 0.747);
-    background-image: url(https://blackjackcas.com/wp-content/uploads/2021/03/bingo-1024x768-1.jpeg);
+    /* background-image: url(https://blackjackcas.com/wp-content/uploads/2021/03/bingo-1024x768-1.jpeg); */
     background-blend-mode:exclusion;
     background-repeat: no-repeat;
     background-size: 100%;
