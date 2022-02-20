@@ -89,3 +89,11 @@ p{
     background-color: white;
     color: black;
 }
+footer {
+    position: absolute;
+    width: 20%;
+    bottom: 1vw;
+    left: 35%;
+    text-align: center;
+    background-color: snow;
+}
